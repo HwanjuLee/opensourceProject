@@ -5,7 +5,7 @@
 2. main.html을 실행시키면 됩니다.
 
 
-open sorce url
+open source url
 
 1. 틀 : https://github.com/alvarotrigo/fullPage.js 
 2. 애니매이션(도형) : https://github.com/tweenjs/tween.js
